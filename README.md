@@ -4,8 +4,8 @@
 ###How do I get started?
 
 Download BAWebView and try out the included iPhone example apps
-Check out the documentation for a comprehensive look at all of the APIs available in BANetworking
-BANetworking uses ARC and is based on UIWebView and WKWebView, which means it supports all iOS versions.
+
+BAWebView uses ARC and is based on UIWebView and WKWebView, which means it supports all iOS versions.
 
 If you need a hand, you can contact us by e-mail.
 
